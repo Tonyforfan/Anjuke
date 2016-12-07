@@ -1,5 +1,7 @@
 # -*- coding:utf-8 -*-
-'''  爬取安居客成都新房的信息，经Excel处理后可以看出成都的房价特征  '''  
+'''  
+爬取安居客成都新房的信息，经Excel处理后可以看出成都的房价特征  
+'''  
 import requests
 import csv
 import codecs
